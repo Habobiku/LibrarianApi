@@ -3,7 +3,7 @@
 
 //Get the book by ket and name
 GET http://testtask.azurewebsites.net/api/GetBook?key=Title&id=Superfreakonomics
-{
+
 {
     "date": "2022-03-02",
     "title": "Superfreakonomics",
@@ -14,7 +14,7 @@ GET http://testtask.azurewebsites.net/api/GetBook?key=Title&id=Superfreakonomics
     "id": 4,
     "genre": "economics"
 }
-}
+
 //Get all books
 GET http://testtask.azurewebsites.net/api/GetBooks
 
