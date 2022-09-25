@@ -48,7 +48,7 @@ GET http://testtask.azurewebsites.net/api/GetBooks
 }
 
 //Get status of book by title
-GET http://testtask.azurewebsites.net/api/GetStatus?Title=Data Smart
+GET http://testtask.azurewebsites.net/api/GetStatus?Title=Outsider
 
 {
     "title": "Data Smart",
