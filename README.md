@@ -3,6 +3,7 @@
 
 //Get the book by ket and name
 GET http://testtask.azurewebsites.net/api/GetBook?key=Title&id=Superfreakonomics
+
 {
     "date": "2022-03-02",
     "title": "Superfreakonomics",
@@ -48,6 +49,7 @@ GET http://testtask.azurewebsites.net/api/GetBooks
 
 //Get status of book by title
 GET http://testtask.azurewebsites.net/api/GetStatus?Title=Data Smart
+
 {
     "title": "Data Smart",
     "status": "Borrow"
