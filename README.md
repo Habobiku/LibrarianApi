@@ -51,8 +51,8 @@ GET http://testtask.azurewebsites.net/api/GetBooks
 GET http://testtask.azurewebsites.net/api/GetStatus?Title=Outsider
 
 {
-    "title": "Data Smart",
-    "status": "Borrow"
+    "title": "Outsider",
+    "status": "Reserve"
 }
 
 
